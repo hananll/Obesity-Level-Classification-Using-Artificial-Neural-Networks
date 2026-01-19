@@ -50,11 +50,12 @@ The model was built using the **Keras Sequential API** and consists of:
 
 ---
 
-## 🖼️ Project Result & Grade
+### 🖼️ Project Grade
 
-Below is an image showing the evaluation/grade received for this project:
+<p align="center">
+  <img src="images/ann.png" width="600">
+</p>
 
-> ℹ️ Replace `images/grade.png` with the actual path of your image in the repository.
 
 ---
 
