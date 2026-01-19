@@ -53,7 +53,7 @@ The model was built using the **Keras Sequential API** and consists of:
 ### 🖼️ Project Grade
 
 <p align="center">
-  <img src="images/ann.png" width="600">
+  <img src="images/ann.jpg" width="600">
 </p>
 
 
